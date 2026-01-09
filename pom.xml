@@ -8,7 +8,6 @@
   <name>Archetype - Financy</name>
   <url>http://maven.apache.org</url>
   <modules>
-    <module>back-utils</module>
     <module>back</module>
   </modules>
 </project>
